@@ -22,7 +22,7 @@ Global
 }
 
 body {
-  background: var(--color-white);
+  background: red;
   font-weight: 400;
   font-size: 18px;
   line-height: 27px;
